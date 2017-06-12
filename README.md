@@ -18,6 +18,6 @@ The PCB does not have holes for PCB mounted switches. You can probably just cut 
 
 Assembly instructions
 
-1. Solder the header pins. 
+1. Solder the header pins to ther PCB.
 2. Place switches into the top place and solder the PCB onto the switches.
 3. Solder the digispark to the header pins. You might want to put electrical tape ontop of the digispark to prevent it from shorting with the switch soldering.
