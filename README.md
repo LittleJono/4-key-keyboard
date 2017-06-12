@@ -4,6 +4,8 @@ NOTE: I have not ordered this version of the PCB, I am not sure if it will work 
 
 EasyEDA or DirtyPCB will probably be the cheapest places to get the PCBs printed. I used DirtyPCB to get the first version of the PCBs printed and they turned out great.
 
+If you are ordering from DirtyPCB, ignore the lack of holes on the PCB render. I can't get my drill file to work with their rendering software. If there are no errors on the layer checker, the holes will most likely cut fine.
+
 The 'top.dxf' and 'bot.dxf' files are for the acrylic case. I got them cut from DirtyPCB, they were really cheap and the case turned out nice.
 
 I used RobotDyn's Digispark clone: https://www.aliexpress.com/item/Digispark-compatible-developing-board-ATtiny85-MicroUSB/32733676895.html
