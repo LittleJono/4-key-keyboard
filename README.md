@@ -9,6 +9,7 @@ If you are ordering from DirtyPCB, ignore the lack of holes on the PCB render. I
 The 'top.dxf' and 'bot.dxf' files are for the acrylic case. I got them cut from DirtyPCB, they were really cheap and the case turned out nice.
 
 I used RobotDyn's Digispark clone: https://www.aliexpress.com/item/Digispark-compatible-developing-board-ATtiny85-MicroUSB/32733676895.html
+
 Other digispark clones will probably work with the footprint, you might have to bend the header pins to make them fit.
 
 The case + PCB should work with 10mm M3 standoffs and 6mm M3 screws. The PCB does not screw into the case, it is held in place by the switches.
