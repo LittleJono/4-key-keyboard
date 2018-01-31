@@ -23,3 +23,5 @@ Assembly instructions
 1. Solder the header pins to the PCB.
 2. Place switches into the top place and solder the PCB onto the switches.
 3. Solder the digispark to the header pins. You will probably need to trim excess PCB from the digispark to get the microUSB connecter to    fit in the 3d printed case. You might want to put electrical tape ontop of the digispark to prevent it from shorting with the switch      soldering.
+
+![alt text](https://github.com/LittleJono/4-key-keyboard/blob/master/Photos/_DSC0076.JPG
