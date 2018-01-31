@@ -24,6 +24,17 @@ Assembly instructions
 2. Place switches into the top place and solder the PCB onto the switches.
 3. Solder the digispark to the header pins. You will probably need to trim excess PCB from the digispark to get the microUSB connecter to    fit in the 3d printed case. You might want to put electrical tape ontop of the digispark to prevent it from shorting with the switch      soldering.
 
+
+Programming Instructions
+
+I use the Arduino IDE to program my digisparks.
+Here's a guide to get started: https://digistump.com/wiki/digispark/tutorials/connecting
+
+I have included some basic firmware under the _4keykeyboard folder, upload it as you would per the guide above.
+
+
+
+
 ![alt text](https://github.com/LittleJono/4-key-keyboard/blob/master/Photos/_DSC0076.JPG)
 ![alt text](https://github.com/LittleJono/4-key-keyboard/blob/master/Photos/_DSC0078.JPG)
 ![alt text](https://github.com/LittleJono/4-key-keyboard/blob/master/Photos/_DSC0083.JPG)
